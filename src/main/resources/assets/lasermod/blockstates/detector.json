@@ -1,0 +1,92 @@
+{
+  "forge_marker": 1,
+  "defaults": {
+    "model": "minecraft:cube_all",
+    "textures": {
+      "all": "lasermod:blocks/detector_off"
+    }
+  },
+  "variants": {
+    "meta": {
+      "0": {},
+      "1": {
+        "textures": {
+          "all": "lasermod:blocks/detector"
+        }
+      },
+      "2": {
+        "textures": {
+          "all": "lasermod:blocks/detector"
+        }
+      },
+      "3": {
+        "textures": {
+          "all": "lasermod:blocks/detector"
+        }
+      },
+      "4": {
+        "textures": {
+          "all": "lasermod:blocks/detector"
+        }
+      },
+      "5": {
+        "textures": {
+          "all": "lasermod:blocks/detector"
+        }
+      },
+      "6": {
+        "textures": {
+          "all": "lasermod:blocks/detector"
+        }
+      },
+      "7": {
+        "textures": {
+          "all": "lasermod:blocks/detector"
+        }
+      },
+      "8": {
+        "textures": {
+          "all": "lasermod:blocks/detector"
+        }
+      },
+      "9": {
+        "textures": {
+          "all": "lasermod:blocks/detector"
+        }
+      },
+      "10": {
+        "textures": {
+          "all": "lasermod:blocks/detector"
+        }
+      },
+      "11": {
+        "textures": {
+          "all": "lasermod:blocks/detector"
+        }
+      },
+      "12": {
+        "textures": {
+          "all": "lasermod:blocks/detector"
+        }
+      },
+      "13": {
+        "textures": {
+          "all": "lasermod:blocks/detector"
+        }
+      },
+      "14": {
+        "textures": {
+          "all": "lasermod:blocks/detector"
+        }
+      },
+      "15": {
+        "textures": {
+          "all": "lasermod:blocks/detector"
+        }
+      }
+    },
+    "inventory": [
+      {}
+    ]
+  }
+}

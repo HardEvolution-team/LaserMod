@@ -1,0 +1,50 @@
+{
+  "forge_marker": 1,
+  "defaults": {
+    "model": "minecraft:cube_bottom_top",
+    "textures": {
+      "top": "lasermod:blocks/advancedlaserfront",
+      "bottom": "lasermod:blocks/advancedlaserback",
+      "side": "lasermod:blocks/advancedlaserside",
+      "particle": "lasermod:blocks/advancedlaserside"
+    }
+  },
+  "variants": {
+    "meta": {
+      "0": {
+        "x": 180
+      },
+      "1": {},
+      "2": {
+        "x": 90
+      },
+      "3": {
+        "x": 90,
+        "y": 180
+      },
+      "4": {
+        "x": 90,
+        "y": 270
+      },
+      "5": {
+        "x": 90,
+        "y": 90
+      },
+      "6": {},
+      "7": {},
+      "8": {},
+      "9": {},
+      "10": {},
+      "11": {},
+      "12": {},
+      "13": {},
+      "14": {},
+      "15": {}
+    },
+    "inventory": [
+      {
+        "x": 90
+      }
+    ]
+  }
+}

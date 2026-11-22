@@ -1,0 +1,132 @@
+{
+  "forge_marker": 1,
+  "defaults": {
+    "model": "minecraft:cube_bottom_top",
+    "textures": {
+      "top": "lasermod:blocks/colorconverter_14",
+      "bottom": "lasermod:blocks/colorconverterinput",
+      "side": "minecraft:blocks/piston_bottom",
+      "particle": "minecraft:blocks/piston_bottom"
+    }
+  },
+  "variants": {
+    "meta": {
+      "0": {
+        "x": 180
+      },
+      "1": {},
+      "2": {
+        "x": 90
+      },
+      "3": {
+        "x": 90,
+        "y": 180
+      },
+      "4": {
+        "x": 90,
+        "y": 270
+      },
+      "5": {
+        "x": 90,
+        "y": 90
+      },
+      "6": {},
+      "7": {},
+      "8": {},
+      "9": {},
+      "10": {},
+      "11": {},
+      "12": {},
+      "13": {},
+      "14": {},
+      "15": {}
+    },
+    "colour": {
+      "0": {
+        "textures": {
+          "top": "lasermod:blocks/colorconverter_0"
+        }
+      },
+      "1": {
+        "textures": {
+          "top": "lasermod:blocks/colorconverter_1"
+        }
+      },
+      "2": {
+        "textures": {
+          "top": "lasermod:blocks/colorconverter_2"
+        }
+      },
+      "3": {
+        "textures": {
+          "top": "lasermod:blocks/colorconverter_3"
+        }
+      },
+      "4": {
+        "textures": {
+          "top": "lasermod:blocks/colorconverter_4"
+        }
+      },
+      "5": {
+        "textures": {
+          "top": "lasermod:blocks/colorconverter_5"
+        }
+      },
+      "6": {
+        "textures": {
+          "top": "lasermod:blocks/colorconverter_6"
+        }
+      },
+      "7": {
+        "textures": {
+          "top": "lasermod:blocks/colorconverter_7"
+        }
+      },
+      "8": {
+        "textures": {
+          "top": "lasermod:blocks/colorconverter_8"
+        }
+      },
+      "9": {
+        "textures": {
+          "top": "lasermod:blocks/colorconverter_9"
+        }
+      },
+      "10": {
+        "textures": {
+          "top": "lasermod:blocks/colorconverter_10"
+        }
+      },
+      "11": {
+        "textures": {
+          "top": "lasermod:blocks/colorconverter_11"
+        }
+      },
+      "12": {
+        "textures": {
+          "top": "lasermod:blocks/colorconverter_12"
+        }
+      },
+      "13": {
+        "textures": {
+          "top": "lasermod:blocks/colorconverter_13"
+        }
+      },
+      "14": {
+        "textures": {
+          "top": "lasermod:blocks/colorconverter_14"
+        }
+      },
+      "15": {
+        "textures": {
+          "top": "lasermod:blocks/colorconverter_15"
+        }
+      }
+    },
+    "inventory": [
+      {
+        "x": 90
+      }
+    ]
+  }
+}
